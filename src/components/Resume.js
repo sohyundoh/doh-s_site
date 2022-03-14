@@ -18,7 +18,7 @@ function Resume(){
             <p className='Contents'>2021.12 -: 이화여자대학교 소프트웨어학부 알고리즘 동아리 EDOC</p>
             <p/>
             <div className='Title'>Linguistic Ability</div>
-            <p className='Contents'>TOEIC:</p>
+            <p className='Contents'>TOEIC: 895</p>
             <p className='Contents'>OPIc:</p>
             <Skills skills = {skills} categories = {categories}/>      </div>
     )
