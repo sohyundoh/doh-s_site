@@ -7,7 +7,7 @@ const skills = [
     },
     {
         title: 'React',
-        competency: 2,
+        competency: 4,
         category:['Web Development', 'Javascript'],
     },
     {
@@ -44,7 +44,12 @@ const skills = [
         title:'Django',
         competency: 3,
         category:['Web Development','Python'],
-    }
+    },
+    {
+      title:'Swift',
+      competency: 3,
+      category:['Web Development'],
+  }
   ].map((skill) => ({ ...skill, category: skill.category.sort() }));
   
   const colors = [

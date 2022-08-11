@@ -1,0 +1,44 @@
+.Title {
+  font-size: 15pt;
+  font-family: "Bread";
+  color: #949494;
+}
+  
+.TitleBold {
+    font-size: 20pt;
+    font-family: "Bread";
+    color: #424242;
+    height: 100px;
+    width: 100%;
+    line-height: 100px;
+}
+.Contents{
+  font-size: 13pt;
+  font-family: "cookie";
+  color: #949494;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Image {
+  display : block ;
+  margin : 0 auto ;
+}
+@font-face {
+    font-family: "Bread";
+    src: url(../../assets/fonts/TitilliumWeb-Bold.woff) format('woff'),
+    url(../../assets/fonts/TitilliumWeb-Bold.ttf) format('truetype'),
+    url(../../assets/fonts/AnyConv.com__TitilliumWeb-Bold.eot) format('embedded-opentype'),
+    url(../../assets/fonts/AnyConv.com__TitilliumWeb-Bold.woff2) format('woff2');
+  }
+  
+@font-face {
+  font-family: "cookie";
+  font-style: normal;
+  src: url(../../assets/fonts/TitilliumWeb-Regular.woff) format('woff'),
+  url(../../assets/fonts/TitilliumWeb-Regular.ttf) format('truetype'),
+  url(../../assets/fonts/AnyConv.com__TitilliumWeb-Regular.eot) format('embedded-opentype'),
+  url(../../assets/fonts/AnyConv.com__TitilliumWeb-Regular.woff2) format('woff2');
+
+}

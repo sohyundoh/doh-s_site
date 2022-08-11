@@ -2,11 +2,11 @@
 import './App.css';
 import {Route} from 'react-router-dom';
 import Bar from './components/Bar';
-import Home from './components/Home'
-import Resume from './components/Resume';
-import Aboutme from './components/Aboutme';
-import Life from './components/Life';
-import logo1 from './components/img/logo1.png';
+import Home from './page/home/Home'
+import Resume from './page/resume/Resume';
+import Aboutme from './page/aboutme/Aboutme';
+import Life from './page/life/Life';
+import logo1 from './assets/image/logo1.png';
 const App = () => {
   return (
     <div className = 'App'>

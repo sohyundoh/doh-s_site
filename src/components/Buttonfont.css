@@ -22,9 +22,9 @@
 @font-face {
     font-family: "cookie";
     font-style: normal;
-    src: url(./fonts/TitilliumWeb-Regular.woff) format('woff'),
-    url(./fonts/TitilliumWeb-Regular.ttf) format('truetype'),
-    url(./fonts/AnyConv.com__TitilliumWeb-Regular.eot) format('embedded-opentype'),
-    url(./fonts/AnyConv.com__TitilliumWeb-Regular.woff2) format('woff2');
+    src: url(../assets/fonts/TitilliumWeb-Regular.woff) format('woff'),
+    url(../assets/fonts/TitilliumWeb-Regular.ttf) format('truetype'),
+    url(../assets/fonts/AnyConv.com__TitilliumWeb-Regular.eot) format('embedded-opentype'),
+    url(../assets/fonts/AnyConv.com__TitilliumWeb-Regular.woff2) format('woff2');
   
   }
