@@ -1,4 +1,4 @@
-React Based Personal Site
+# React Based Personal Site
 
 
 # Getting Started with Create React App
